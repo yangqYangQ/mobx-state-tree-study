@@ -1,0 +1,22 @@
+{
+  "suggestions_f": [
+    {
+      "name": "yangq",
+      "price": 100
+    },
+    {
+      "name": "test",
+      "price": 250
+    }
+  ],
+  "suggestions_m": [
+    {
+      "name": "男1",
+      "price": 10
+    },
+    {
+      "name": "男2",
+      "price": 20
+    }
+  ]
+}

@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "homepage" : "https://yangqyangq.github.io/mobx-state-tree-study/build",
   "license": "MIT",
   "dependencies": {
     "json-server": "0.16.1",

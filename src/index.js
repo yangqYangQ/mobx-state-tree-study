@@ -4,30 +4,7 @@ import {onSnapshot, getSnapshot, addMiddleware} from 'mobx-state-tree';
 import App from './App';
 import Group from './models/groupModel';
 
-let initialState = {
-  users: {
-    1: {
-      id: '1',
-      name: 'Anna',
-      gender: 'f'
-    },
-    2: {
-      id: '2',
-      name: 'Bob',
-      gender: 'm'
-    },
-    3: {
-      id: '3',
-      name: 'Christan',
-      gender: 'f'
-    },
-    4: {
-      id: '4',
-      name: 'David',
-      gender: 'm'
-    }
-  }
-};
+let initialState = {users: {}};
 
 if (localStorage.getItem('wishListApp')) {
   const json = JSON.parse(localStorage.getItem('wishListApp'));

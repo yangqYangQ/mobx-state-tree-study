@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.70d1c4ec.chunk.js",
-    "main.js.map": "/static/js/main.70d1c4ec.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.6d43c02b.chunk.js": "/static/js/2.6d43c02b.chunk.js",
-    "static/js/2.6d43c02b.chunk.js.map": "/static/js/2.6d43c02b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.99486fc56d9515cbbf9f84cbc4837bf6.js": "/precache-manifest.99486fc56d9515cbbf9f84cbc4837bf6.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "/mobx-state-tree-study/build/static/js/main.01e2b373.chunk.js",
+    "main.js.map": "/mobx-state-tree-study/build/static/js/main.01e2b373.chunk.js.map",
+    "runtime~main.js": "/mobx-state-tree-study/build/static/js/runtime~main.92c0c7de.js",
+    "runtime~main.js.map": "/mobx-state-tree-study/build/static/js/runtime~main.92c0c7de.js.map",
+    "static/js/2.1e3abc5c.chunk.js": "/mobx-state-tree-study/build/static/js/2.1e3abc5c.chunk.js",
+    "static/js/2.1e3abc5c.chunk.js.map": "/mobx-state-tree-study/build/static/js/2.1e3abc5c.chunk.js.map",
+    "index.html": "/mobx-state-tree-study/build/index.html",
+    "precache-manifest.ab88930c1ec72bf4c9dd25c3422754db.js": "/mobx-state-tree-study/build/precache-manifest.ab88930c1ec72bf4c9dd25c3422754db.js",
+    "service-worker.js": "/mobx-state-tree-study/build/service-worker.js"
   }
 }

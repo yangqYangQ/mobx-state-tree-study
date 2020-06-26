@@ -10,6 +10,9 @@ const App = ({group}) => {
 
   return (
     <div>
+      <button onClick={group.reload}>刷新</button>
+      <br/>
+
       <select onChange={onSelectUser}>
         <option>- select user -</option>
         {Array.from(group.users.values()).map(user => (
@@ -18,6 +21,7 @@ const App = ({group}) => {
           </option>
         ))}
       </select>
+
       {selectedUser && <WishListView list={selectedUser.wishList}/>}
       {selectedUser && <button onClick={selectedUser.getSuggestions}>建议数据</button>}
     </div>
